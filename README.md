@@ -1,59 +1,66 @@
-# Hello, I'm Bob !
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm Bob Lorentz Massenat 👋
 
-I am a cybersecurity professional in development with a career focus on Governance, Risk, and Compliance (GRC). Through completed coursework in enterprise security, cloud security, cryptography, networking, and cyber forensics, I have built a technical foundation for understanding organizational risk and evaluating security controls
+**Aspiring AI Security Engineer — securing AI/ML systems and bringing AI into cyber defense and offense.**
 
-## Objective
+I'm a cybersecurity graduate student whose master's centers on advanced AI integration into
+security: AI-augmented threat detection, securing machine-learning systems, and the adversarial
+side of AI. I work hands-on with AI-enabled next-generation firewalls and large-scale data
+analysis in Python, and I pair that with an offensive foundation — memory corruption, reverse
+engineering, and C++.
 
-As a future master’s graduate, I aim to a security position where I can apply my cybersecurity knowledge to support risk assessments, policy development, control evaluations, and audit readiness. My goal is to translate technical security knowledge into practical policies, well-supported risk decisions, and improvements in organizational security.
+📍 Ocoee, FL &nbsp;·&nbsp; 📫 mboblorentz@gmail.com
 
-## Skills
+---
 
+## 🎯 Currently focused on
+- Specializing in **AI security engineering** — securing AI/ML pipelines and applying AI to detection and response
+- Hands-on with **AI-enabled next-generation firewalls** and AI-augmented network defense
+- **Large-dataset analysis in Python** (Google Colab) to drive detection and threat insights
+- Exploring **adversarial ML and LLM security** (model evasion, data poisoning, prompt injection)
+- Keeping a strong low-level offensive base in C++ (**Phase 1: memory-corruption fundamentals**)
+- Studying for the **(ISC)² CISSP**
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## 🧰 Skills
 
-## Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+- **AI & ML security:** AI-augmented threat detection, AI-enabled next-gen firewall integration, securing ML pipelines, adversarial ML & LLM-security concepts
+- **Data analysis:** large-dataset processing with Python in Google Colab / Jupyter
+- **Security architecture & cloud:** enterprise security architecture, cloud security, IoT/wireless security, applied cryptography
+- **Security operations:** SIEM log collection & detection rules, alert triage, threat hunting
+- **Offensive & vulnerability:** vulnerability assessment, ethical hacking, binary-exploitation fundamentals
+- **Digital forensics:** Autopsy, FTK Imager, Volatility
+- **Systems & network:** Windows / Active Directory, Linux, pfSense, TCP/IP, firewall segmentation
+- **Languages:** Python, C++, SQL, Bash
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## 📜 Certifications
+- CompTIA **Security+**
+- CompTIA **CySA+** (Cybersecurity Analyst)
+- (ISC)² **CISSP** — *in progress*
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+## 📂 Featured projects
+- **[scada-ics-ann-ids](https://github.com/Legrand509/scada-ics-ann-ids)** — intrusion detection on 1.4M SCADA/ICS network flows with a feed-forward neural network, handling extreme class imbalance. Includes a candid evaluation that identifies data duplication and leakage inflating the metrics — and how I'd fix it.
+- **[phase1-memory-labs](https://github.com/Legrand509/phase1-memory-labs)** — hands-on labs on the four classic C/C++ memory-corruption bug classes: a vulnerable program, a fix, and a root-cause write-up with GDB/AddressSanitizer evidence for each. The offensive foundation that underpins AI red teaming.
+- **Home SOC lab** — Active Directory environment with SIEM log collection and custom detection rules, pfSense segmentation and IDS, and disk/memory forensics practice.
 
-### CLOUD
-<div>
-    <img src="https://img.shields.io/badge/-AWS_Cloud_Services-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-</div>
+## 🎓 Education
+**M.S., Cybersecurity (Cyber Operations)** — ECPI University · *Expected Dec 2026*
+Graduate coursework centered on AI integration into cybersecurity:
+- AI-Augmented Cybersecurity with Python
+- Network Security and Next-Gen Firewalls with AI
+- Hardening Enterprise Security Architecture with AI
+- Applied Cryptography and Data Protection with AI
+- Cybersecurity with AI — Synopsis (capstone)
+- Security Architecture & Design · Cloud Security · Cyber Forensics
+- Wireless, Mobile, and IoT Security · Advanced Networking
 
-## Certifications
+**B.S., Computer Information Science** — ECPI University
 
-<div>
-    <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+## 🤝 Connect
+- 📧 mboblorentz@gmail.com
+- 💼 LinkedIn: `www.linkedin.com/in/bob-l-massenat-5b98b5271`
