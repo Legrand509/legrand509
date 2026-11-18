@@ -5,7 +5,7 @@
 I'm a cybersecurity graduate student whose master's centers on advanced AI integration into
 security: AI-augmented threat detection, securing machine-learning systems, and the adversarial
 side of AI. I work hands-on with AI-enabled next-generation firewalls and large-scale data
-analysis in Python, and I pair that with an offensive foundation — memory corruption, reverse
+analysis in Python, and I pair that with an offensive foundation, memory corruption, reverse
 engineering, and C++.
 
 📍 Ocoee, FL &nbsp;·&nbsp; 📫 mboblorentz@gmail.com
@@ -44,7 +44,6 @@ engineering, and C++.
 - (ISC)² **CISSP** — *in progress*
 
 ## 📂 Featured projects
-- **[scada-ics-ann-ids](https://github.com/Legrand509/scada-ics-ann-ids)** — intrusion detection on 1.4M SCADA/ICS network flows with a feed-forward neural network, handling extreme class imbalance. Includes a candid evaluation that identifies data duplication and leakage inflating the metrics — and how I'd fix it.
 - **[phase1-memory-labs](https://github.com/Legrand509/phase1-memory-labs)** — hands-on labs on the four classic C/C++ memory-corruption bug classes: a vulnerable program, a fix, and a root-cause write-up with GDB/AddressSanitizer evidence for each. The offensive foundation that underpins AI red teaming.
 - **Home SOC lab** — Active Directory environment with SIEM log collection and custom detection rules, pfSense segmentation and IDS, and disk/memory forensics practice.
 
@@ -59,7 +58,7 @@ Graduate coursework centered on AI integration into cybersecurity:
 - Security Architecture & Design · Cloud Security · Cyber Forensics
 - Wireless, Mobile, and IoT Security · Advanced Networking
 
-**B.S., Computer Information Science** — ECPI University
+**B.S., Computer Information Science (Cyber and information security)** — ECPI University
 
 ## 🤝 Connect
 - 📧 mboblorentz@gmail.com
